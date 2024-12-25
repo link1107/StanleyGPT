@@ -1,0 +1,22 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "com.igorlink.stanleygpt.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "mixins": [
+    "AnimalMixin",
+    "BlockMixin",
+    "CraftingResultSlotMixin",
+    "FishingBobberEntityMixin",
+    "FurnaceOutputSlotMixin",
+    "LivingEntityMixin",
+    "LootTableMixin",
+    "ServerPlayerEntityMixin",
+    "ServerPlayerInteractionManagerMixin",
+    "ServerWorldMixin",
+    "TameableEntityMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

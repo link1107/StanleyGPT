@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Gradle Imported" enabled="true">
+        <outputRelativeToContentRoot value="true" />
+        <option name="defaultObfuscationEnv" value="named:intermediary" />
+        <option name="inMapFileNamedIntermediary" value="C:\Users\igort\.gradle\caches\fabric-loom\1.21.4\net.fabricmc.yarn.1_21_4.1.21.4+build.2-v2\mappings.tiny" />
+        <option name="outMapFileNamedIntermediary" value="C:\Users\igort\Documents\ProjectsJAVA\StanleyGPT\build\loom-cache\mixin-map-net.fabricmc.yarn.1_21_4.1.21.4+build.2-v2.client.tiny" />
+        <option name="outRefMapFile" value="C:\Users\igort\Documents\ProjectsJAVA\StanleyGPT\build\classes\java\client\client-stanleygpt-refmap.json" />
+        <option name="quiet" value="true" />
+        <processorPath useClasspath="false">
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.projectlombok/lombok/1.18.36/5a30490a6e14977d97d9c73c924c1f1b5311ea95/lombok-1.18.36.jar" />
+        </processorPath>
+        <module name="StanleyGPT.client" />
+      </profile>
+      <profile name="Gradle Imported" enabled="true">
+        <outputRelativeToContentRoot value="true" />
+        <option name="defaultObfuscationEnv" value="named:intermediary" />
+        <option name="inMapFileNamedIntermediary" value="C:\Users\igort\.gradle\caches\fabric-loom\1.21.4\net.fabricmc.yarn.1_21_4.1.21.4+build.2-v2\mappings.tiny" />
+        <option name="outMapFileNamedIntermediary" value="C:\Users\igort\Documents\ProjectsJAVA\StanleyGPT\build\loom-cache\mixin-map-net.fabricmc.yarn.1_21_4.1.21.4+build.2-v2.main.tiny" />
+        <option name="outRefMapFile" value="C:\Users\igort\Documents\ProjectsJAVA\StanleyGPT\build\classes\java\main\stanleygpt-refmap.json" />
+        <option name="quiet" value="true" />
+        <processorPath useClasspath="false">
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.projectlombok/lombok/1.18.36/5a30490a6e14977d97d9c73c924c1f1b5311ea95/lombok-1.18.36.jar" />
+        </processorPath>
+        <module name="StanleyGPT.main" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel target="21" />
+  </component>
+</project>

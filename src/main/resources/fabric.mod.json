@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "id": "stanley-gpt",
+  "version": "${version}",
+  "name": "StanleyGPT",
+  "description": "Stanley Parable commentaries over Minecraft gameplay",
+  "authors": [],
+  "contact": {},
+  "license": "All-Rights-Reserved",
+  "icon": "assets/stanley-gpt/icon.png",
+  "environment": "client",
+  "entrypoints": {
+    "client": [
+      "com.igorlink.stanleygpt.client.StanleyGptClient"
+    ],
+    "main": [
+      "com.igorlink.stanleygpt.StanleyGpt"
+    ]
+  },
+  "mixins": [
+    "stanley-gpt.mixins.json",
+    {
+      "config": "stanley-gpt.client.mixins.json",
+      "environment": "client"
+    }
+  ],
+  "depends": {
+    "fabricloader": ">=${loader_version}",
+    "fabric": "*",
+    "minecraft": "${minecraft_version}"
+  }
+}
