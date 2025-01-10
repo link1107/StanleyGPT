@@ -4,7 +4,7 @@
 1. Скачайте Minecraft 1.21.4.
 2. Скачайте и запустите установщик [Fabric](https://fabricmc.net/use/installer/).
 3. Скачайте и закиньте [FabricAPI](https://www.curseforge.com/minecraft/mc-mods/fabric-api) в папку mods в папке клиента Minecraft.
-4. Скачайте файл с модом, поместите его в папку mods в папке клиента Minecraft.
+4. Скачайте [файл с модом](https://github.com/link1107/StanleyGPT/releases/download/v1.0/stanleygpt-1.0.jar), поместите его в папку mods в папке клиента Minecraft.
 5. [Создайте](https://youtu.be/gBSh9JI28UQ) себе ключ для OpenAI API, если его у вас нету.
 6. Зайдите в игру, затем перейдите в настройки, затем перейдите в настройки мода.
 7. В поле ключа OpenAI вставьте свой OpenAI-ключ, созданный на шаге 5.
